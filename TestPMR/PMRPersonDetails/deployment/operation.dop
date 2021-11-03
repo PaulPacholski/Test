@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="PMRPersonDetails">
+  <name>PMRPersonDetails</name>
+  <uuid>e6590b2d-4dfa-430a-9c96-6a7a05eb2b4a</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#251827d3-a255-480f-946b-c622de391d41"/>
+  <targetRuleProject href="../../PMRPersonDetails#d1b5b3c3-42be-474d-90d5-ac1b3c3edc82"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["PMRPersonDetails"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>

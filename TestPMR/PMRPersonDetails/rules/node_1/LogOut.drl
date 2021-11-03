@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>LogOut</name>
+  <uuid>13ba52f3-a528-4598-b4e1-39a3daa53c0a</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to "Hello " + the First Name of person ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

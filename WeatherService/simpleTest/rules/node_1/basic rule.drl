@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>basic rule</name>
+  <uuid>946bcde7-b364-4090-ab9e-f4357750f1a5</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[if
+	Input is "Dan"
+then
+	set decision to "Dan it is!" ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

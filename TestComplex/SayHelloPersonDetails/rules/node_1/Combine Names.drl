@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>Combine Names</name>
+  <uuid>aeb4342f-bc18-4d29-81e4-c89280958695</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to "Hello " + the First Name of PersonDetails + " " + the Last Name of PersonDetails ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>

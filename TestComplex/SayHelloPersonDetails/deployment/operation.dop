@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="SayHelloPersonDetails">
+  <name>SayHelloPersonDetails</name>
+  <uuid>466cafd6-f9a2-4874-9338-6b78bbefaa0e</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#f9c077c1-f283-4874-9775-5e9ec983a241"/>
+  <targetRuleProject href="../../SayHelloPersonDetails#aaf358e3-b073-4659-b6ae-8a883e2ff273"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["sayHelloPersonDetails"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
